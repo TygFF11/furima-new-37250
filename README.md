@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. デプロイ
+2. Basic認証
+3. データベース設計
+4. ユーザー管理機能
+5. 商品出品機能
+6. 商品一覧表示機能
+7. 商品詳細表示機能
+8. 商品情報編集機能
+9. 商品削除機能
+10. 商品購入機能
+11. S3の導入
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
