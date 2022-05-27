@@ -12,8 +12,8 @@
 10. 商品購入機能
 11. S3の導入
 
-1日目：テーブル設計
-2 - 4日目：ユーザー管理機能
+<!-- 1日目：テーブル設計  済 -->
+<!-- 2 - 4日目：ユーザー管理機能  済 -->
 5 - 8日目：商品出品機能
 9日目：商品一覧 & 商品詳細 & 商品情報編集 & 商品削除機能
 10日 - 15日目：商品購入機能 & Basic認証 & S3
@@ -26,7 +26,7 @@
 | email                 | string     | null: false, unique: true      |
 | encrypted_password    | string     | null: false                    |
 | first_name            | string     | null: false                    |
-| las _name             | string     | null: false                    |
+| last_name             | string     | null: false                    |
 | first_name_kana       | string     | null: false                    |
 | last_name_kana        | string     | null: false                    |
 | birthday              | date       | null: false                    |
