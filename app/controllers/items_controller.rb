@@ -19,8 +19,10 @@ class ItemsController < ApplicationController
     end
   end
 
-  # def show
-  # end
+  def show
+    # binding.pry
+    @item = Item.find_by(id: params[:id])
+  end
 
   private
 
