@@ -22,5 +22,6 @@ class User < ApplicationRecord
   validates :first_name_kana, format: { with: VALID_NAME_KANA }
   
   has_many :item
+  has_many :order
 
 end
